@@ -58,8 +58,6 @@ Geographic location(s) relevant to the item. Some coverage terms used in the col
 ### CoverageLink
 Coverage URI.
 ### Rights
-Copyright statement for the item, using Rightsstatement.org statements.
-### RightsLink
 Information about restrictions imposed on access to a resource.
 
 Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). http://rightsstatements.org/vocab/InC/1.0/ 
