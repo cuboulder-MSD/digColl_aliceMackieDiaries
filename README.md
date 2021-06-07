@@ -27,52 +27,46 @@ A term or phrase representing the primary topic(s) on which a work is focused. F
 URI for the subject(s). Field will repeat for multiple subjects as appropriate.
 ### Description
 Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant. Field will repeat as appropriate.
-### DescriptionLink
-URI or link relevant to the description.
-### Publisher
-Publisher of the item.
-### PublisherLink
-Publisher URI.
-### Contributor
-Contributor of content for the item. Field will repeat as appropriate.
-### ContributorLink
-Contributor URI. Field will repeat as appropriate.
 ### Date
 Date for the item. Generally the date provided by the creator of the item. May be a span if the item was created over a span of time.
-### DateLink
-Date URI.
+
+Date ranges include: 1927-1931
 ### Type
-DCMI type.
+A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: [Text](http://purl.org/dc/dcmitype/Text)
 ### TypeLink
 Type URI.
 ### Format
-AAT format and IANA media type. Field will repeat as appropriate.
-### FormatLink
-Format URI(s). Field will repeat as appropriate.
+AAT format and IANA media type. AAT terms include: [diaries](http://vocab.getty.edu/aat/300027112)
+
+IANA media type(s) in this collection: application/pdf
+### Identifier ARK
+Controlled, stable link to the resource. Example: https://ark.colorado.edu/ark:/47540/vq08938885h2
 ### Identifier
-File name.
-### IdentifierLink
-URI for identifier.
-### Source
-If the item is part of a larger whole, information for the source item is listed in this field.
-### SourceLink
-Source item URI.
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
+
+Example: narv_aliceMackie_1927.pdf
 ### Language
-Language of the item. Field will repeat as appropriate.
+Contains the textual or coded form for the language of the content of the resource. Language(s) seen in this collection include: [English](http://id.loc.gov/vocabulary/iso639-2/eng)
 ### LanguageLink
 Language URI, from LOC language list. Field will repeat as appropriate.
 ### Relation
-Items or resources related to the item. Field will repeat as appropriate.
+Information that identifies other resources related to the one being described.
 ### RelationLink
 Related item or resource link(s). Field will repeat as appropriate.
 ### Coverage
-Geographic area that the item covers, either topically, or thematically. Field will repeat as appropriate.
+Geographic location(s) relevant to the item. Some coverage terms used in the collection include: [California](http://id.loc.gov/authorities/names/n79041717); [Thailand](http://id.loc.gov/authorities/names/n79059683) 
 ### CoverageLink
 Coverage URI.
 ### Rights
 Copyright statement for the item, using Rightsstatement.org statements.
 ### RightsLink
-Rightsstatement.org URI.
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). http://rightsstatements.org/vocab/InC/1.0/ 
+
+Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
 ## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Alice Mackie Papers](https://archives.colorado.edu/repositories/2/resources/1108).
+
 ## Notes
