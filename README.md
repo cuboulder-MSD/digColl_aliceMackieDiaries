@@ -50,7 +50,9 @@ Contains the textual or coded form for the language of the content of the resour
 ### LanguageLink
 Language URI, from LOC language list. Field will repeat as appropriate.
 ### Relation
-Information that identifies other resources related to the one being described.
+Information that identifies other resources related to the one being described. In this case, the relation field is used to describe the source or location of the collection. 
+
+That being : University of Colorado Boulder Libraries Rare and Distinctive Collections
 ### RelationLink
 Related item or resource link(s). Field will repeat as appropriate.
 ### Coverage
